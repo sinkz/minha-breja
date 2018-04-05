@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Brahma",
+        "local": "Condor",
+        "preco": 1.99
+    },
+    {
+        "id": 2,
+        "nome": "Skol",
+        "local": "Angeloni",
+        "preco": 1.99
+    },
+    {
+        "id": 3,
+        "nome": "Bavaria",
+        "local": "Mufato",
+        "preco": 1.59
+    }
+]

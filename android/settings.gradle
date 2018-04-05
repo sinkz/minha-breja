@@ -1,0 +1,3 @@
+rootProject.name = 'breja_search'
+
+include ':app'
